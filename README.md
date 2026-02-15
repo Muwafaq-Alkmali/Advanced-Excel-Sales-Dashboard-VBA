@@ -105,10 +105,10 @@
 - تغطية 75 مدينة مختلفة
 
 ## معاينة المشروع
-![الشاشة الرئيسية Dashboard](images/Dashboardmain.png)
+![الشاشة الرئيسية Dashboard](salce_DashBoard_Excel/images/Dashboardmain.png)
 *صورة 1: نظرة عامة على Dashboard الرئيسي مع المؤشرات*
 
-![الشاشة الفرعية للتحليل](images/Dashboardsub.png)
+![الشاشة الفرعية للتحليل](salce_DashBoard_Excel/images/Dashboardsub.png)
 *صورة 2: تفاصيل التحليل والمقارنات*
 
 ## كيفية استخدام Dashboard
